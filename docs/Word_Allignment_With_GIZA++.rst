@@ -64,5 +64,5 @@ The former consist of triples of the form (modern_english_word, middle_english_w
   again agayn 0.517093
 
 
-``actual.ti.final`` is nearly identical with the only difference being that instead of words, it uses the IDs assigned in the afforementioned ``.vcb`` files.
+``actual.ti.final`` is nearly identical, the only difference being that instead of words, it uses the IDs assigned in the afforementioned ``.vcb`` files.
 
