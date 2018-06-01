@@ -39,7 +39,7 @@ You should be seeing four new files, ``original.vcb``, ``translation.vcb``, ``or
 
 The ``snt`` files contain the number encoded sentences, whereas the ``vcb`` suffix reffers to a file containing the frequency of each word along with its unique ID.
 
-Navigate to ``.\\mkcls-v2\\`` and run the following command:
+Navigate to ``.\mkcls-v2\`` and run the following command:
 
 .. code-block::
   
